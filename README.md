@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Microservices Architecture & Cloud Deployment**
 
-- 💬 Ask me about **ava, Spring Boot, React, and Elasticsearch**
+- 💬 Ask me about **Java, Spring Boot, React, and Elasticsearch**
 
 - 📫 How to reach me **bhushankubde29@gmail.com**
 
